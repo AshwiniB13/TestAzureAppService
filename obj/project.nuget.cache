@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "epFM5l2mF7DzN08VQe+a51q28k7227NITwu2morn+BsGkCja4rvEUpouJ0mrQycA0mVRDIaUI48dr9av1oK29A==",
+  "success": true,
+  "projectFilePath": "D:\\Ashwini\\TRAINING\\.Net FullStackAzure\\Projects\\TestAzureAppService\\TestAzureAppService\\TestAzureAppService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASHWINI B\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ASHWINI B\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASHWINI B\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ASHWINI B\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ASHWINI B\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ASHWINI B\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
